@@ -1,0 +1,18 @@
+This is implementation of Connect4 game using Java. 
+
+
+Here the size of the board and depth of the search is configurable.
+
+
+Here depth indicates the difficulty of the game.
+
+
+NOTE:
+Minimum depth of 2 is recommended.
+
+
+How to play:
+javac Play_main.java
+java Play_main.
+
+
